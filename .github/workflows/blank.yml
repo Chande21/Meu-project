@@ -1,0 +1,103 @@
+
+Menu de navegação
+Meu-projeto
+
+Código
+Problemas
+1
+SOLITERRA-GIS #3
+Abrir
+Abrir
+SOLITERRA-GIS
+#3
+Etiquetas
+erro
+Algo não está funcionando
+Ir para o fundo
+Descrição
+@Chande21
+Chande21
+aberto8 horas atrás
+Proprietário
+Documento Completo SOLITERRA-GiS – Plataforma Integrada de Inteligência Territorial
+Introdução
+SOLITERRA-GiS é uma plataforma digital inovadora, desenvolvida para integrar dados geoespaciais, agrícolas e ambientais, promovendo a gestão sustentável do território em Moçambique e região.
+A plataforma utiliza tecnologias GIS, inteligência artificial, blockchain leve e arquitetura moderna para apoiar políticas públicas, pesquisas científicas e iniciativas locais, com foco em inclusão digital e capacitação de jovens e comunidades rurais.
+Objetivos do Projeto
+Mapear e gerenciar recursos naturais com alta precisão e transparência.
+Promover a inclusão socioeconômica e digital para agricultores, técnicos e jovens.
+Apoiar decisões governamentais, ambientais e agrícolas baseadas em dados reais e em tempo real.
+Capacitar o sistema educacional com módulos integrados de SIG e sustentabilidade.
+Garantir soberania tecnológica com código aberto e infraestrutura local.
+Criar um ecossistema sustentável, escalável e seguro para uso público e privado.
+Público-Alvo
+Governos provinciais e centrais (departamentos de agricultura, ambiente e planejamento).
+ONGs e organismos internacionais de desenvolvimento rural.
+Pequenos e médios agricultores, cooperativas e associações.
+Escolas, universidades, institutos técnicos e centros de pesquisa.
+Startups, incubadoras e empreendedores digitais digitais.
+Tecnologias Principais
+4.1 Frontend
+React 18 + Vite: construção moderna, rápida e modular.
+TailwindCSS: estilização responsiva e eficiente.
+Leaflet.js + OpenStreetMap: mapas interativos com suporte a camadas múltiplas.
+PWA: modo offline-first para zonas com pouca conectividade.
+Firebase Auth: autenticação segura (e-mail/senha, Google, etc).
+4.2 Backend
+Node.js + Express.js: API RESTful modular e escalável.
+PostgreSQL + PostGIS: banco de dados espaciais relacionais para manipulação avançada de geodados.
+MinIO (compatível com S3): armazenamento seguro de arquivos e imagens.
+Nível Blockchain (IPFS ou similar): registro imutável para confiança e dados sensíveis.
+4.3 Infraestrutura
+Docker + Docker Compose: containers para desenvolvimento e produção.
+Nginx + Certbot (HTTPS): servidor web seguro e confiável.
+Monitoramento: Prometheus e Grafana para métricas e alertas.
+Funcionalidades interessantes
+5.1 Mapa Interativo
+Visualização multicamadas (solo, clima, uso da terra, infraestruturas).
+Zoom progressivo e filtros sonoros.
+Upload e visualização de shapefiles, GeoJSON.
+Interface para coleta de dados comunitária (crowdsourcing).
+5.2 Gestão de Dados Agrícolas
+Cadastro detalhado de propriedades, talhões e culturas.
+Histórico de análises de solo e fertilidade.
+Integração com sensores meteorológicos (futuro).
+Relatórios customizados exportáveis.
+5.3 Análise e IA
+Modelos preditivos para produtividade e risco climático.
+Recomendação de culturas e práticas agrícolas.
+Análise temporal via imagens de satélite e drones.
+5.4 Usuários e Permissões
+Níveis: admin, gestor, técnico, agricultor, visitante.
+Controle detalhado de acesso a dados e funcionalidades.
+Histórico e registros de auditoria.
+5.5 Relatórios e Exportação
+PDFs gerados automaticamente com gráficos e mapas.
+Exportação CSV, Excel e formatos GIS padrão.
+5.6 Educação e Capacitação
+Portal educacional com materiais didáticos.
+Cursos on-line e certificações.
+Laboratórios virtuais e práticos com conjuntos de dados reais.
+Suporte para uso em escolas e universidades.
+5.7 Monetização
+Licenciamento para uso comercial e institucional.
+Serviços de consultoria e análises personalizadas.
+Marketplace de dados e serviços geotecnológicos.
+Cursos pagos e formações certificadas.
+5.8 Segurança
+Criptografia ponta a ponta.
+Proteção contra injeção SQL, XSS, CSRF.
+Backup automático e sistema de recuperação.
+Conformidade LGPD e normas internacionais.
+Roadmap Técnico (Sugestão)
+Fase Atividade Prazo Estimado
+MVP Backend básico + Frontend mapa interativo 2 meses
+Beta Integração auth, cadastro e relatórios 3 meses
+V1.0 IA preditiva, PWA, exportação completa 4 meses
+Expansão Módulo educacional e marketplace 6 meses
+Escala Multipaís, blockchain, integração IoT 12 meses
+Direitos Autorais e Licença
+© 2025 Charamatane Chande Mucussete. Todos os direitos reservados.
+Licença personalizada com permissão para uso educacional, institucional e mediante acordo comercial.
+Contato Oficial
+E-mail: chandepros892010@gmail.com
