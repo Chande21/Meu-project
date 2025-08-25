@@ -1,2 +1,1 @@
-# Meu-project
-EPALA
+# SOLITERRA-GIS
